@@ -12331,119 +12331,6 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 414347669}
   m_Mesh: {fileID: 10209, guid: 0000000000000000e000000000000000, type: 0}
---- !u!1001 &488997931
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    m_TransformParent: {fileID: 1068502212}
-    m_Modifications:
-    - target: {fileID: 1277685706724523714, guid: 1f1a08a56a9c158499ae89123bb9cd31, type: 3}
-      propertyPath: m_Materials.Array.size
-      value: 2
-      objectReference: {fileID: 0}
-    - target: {fileID: 1277685706724523714, guid: 1f1a08a56a9c158499ae89123bb9cd31, type: 3}
-      propertyPath: m_Materials.Array.data[1]
-      value: 
-      objectReference: {fileID: 2100000, guid: d5884d7e228cf734194491e76f85b122, type: 2}
-    - target: {fileID: 2489295012825806711, guid: 1f1a08a56a9c158499ae89123bb9cd31, type: 3}
-      propertyPath: m_IsActive
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 4895061140630648171, guid: 1f1a08a56a9c158499ae89123bb9cd31, type: 3}
-      propertyPath: m_IsActive
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 5826595298834687482, guid: 1f1a08a56a9c158499ae89123bb9cd31, type: 3}
-      propertyPath: m_RootOrder
-      value: 5
-      objectReference: {fileID: 0}
-    - target: {fileID: 5826595298834687482, guid: 1f1a08a56a9c158499ae89123bb9cd31, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: 2.5908818
-      objectReference: {fileID: 0}
-    - target: {fileID: 5826595298834687482, guid: 1f1a08a56a9c158499ae89123bb9cd31, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: 10.570833
-      objectReference: {fileID: 0}
-    - target: {fileID: 5826595298834687482, guid: 1f1a08a56a9c158499ae89123bb9cd31, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: 6.3301296
-      objectReference: {fileID: 0}
-    - target: {fileID: 5826595298834687482, guid: 1f1a08a56a9c158499ae89123bb9cd31, type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 0.64006203
-      objectReference: {fileID: 0}
-    - target: {fileID: 5826595298834687482, guid: 1f1a08a56a9c158499ae89123bb9cd31, type: 3}
-      propertyPath: m_LocalRotation.x
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5826595298834687482, guid: 1f1a08a56a9c158499ae89123bb9cd31, type: 3}
-      propertyPath: m_LocalRotation.y
-      value: 0.76832324
-      objectReference: {fileID: 0}
-    - target: {fileID: 5826595298834687482, guid: 1f1a08a56a9c158499ae89123bb9cd31, type: 3}
-      propertyPath: m_LocalRotation.z
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5826595298834687482, guid: 1f1a08a56a9c158499ae89123bb9cd31, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5826595298834687482, guid: 1f1a08a56a9c158499ae89123bb9cd31, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 100.407
-      objectReference: {fileID: 0}
-    - target: {fileID: 5826595298834687482, guid: 1f1a08a56a9c158499ae89123bb9cd31, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 6329212288455002383, guid: 1f1a08a56a9c158499ae89123bb9cd31, type: 3}
-      propertyPath: m_LocalScale.x
-      value: 0.72400343
-      objectReference: {fileID: 0}
-    - target: {fileID: 6329212288455002383, guid: 1f1a08a56a9c158499ae89123bb9cd31, type: 3}
-      propertyPath: m_LocalScale.y
-      value: 0.72400343
-      objectReference: {fileID: 0}
-    - target: {fileID: 6329212288455002383, guid: 1f1a08a56a9c158499ae89123bb9cd31, type: 3}
-      propertyPath: m_LocalScale.z
-      value: 0.72400343
-      objectReference: {fileID: 0}
-    - target: {fileID: 6329212288455002383, guid: 1f1a08a56a9c158499ae89123bb9cd31, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: -0.541
-      objectReference: {fileID: 0}
-    - target: {fileID: 6329212288455002383, guid: 1f1a08a56a9c158499ae89123bb9cd31, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: -0.927
-      objectReference: {fileID: 0}
-    - target: {fileID: 6329212288455002383, guid: 1f1a08a56a9c158499ae89123bb9cd31, type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 0.9964183
-      objectReference: {fileID: 0}
-    - target: {fileID: 6329212288455002383, guid: 1f1a08a56a9c158499ae89123bb9cd31, type: 3}
-      propertyPath: m_LocalRotation.x
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 6329212288455002383, guid: 1f1a08a56a9c158499ae89123bb9cd31, type: 3}
-      propertyPath: m_LocalRotation.y
-      value: -0.08456165
-      objectReference: {fileID: 0}
-    - target: {fileID: 6329212288455002383, guid: 1f1a08a56a9c158499ae89123bb9cd31, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: -9.702
-      objectReference: {fileID: 0}
-    - target: {fileID: 6600000107543854912, guid: 1f1a08a56a9c158499ae89123bb9cd31, type: 3}
-      propertyPath: m_Name
-      value: Office Chair A
-      objectReference: {fileID: 0}
-    - target: {fileID: 6823573345284286935, guid: 1f1a08a56a9c158499ae89123bb9cd31, type: 3}
-      propertyPath: m_IsActive
-      value: 1
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: 1f1a08a56a9c158499ae89123bb9cd31, type: 3}
 --- !u!1 &598031592
 GameObject:
   m_ObjectHideFlags: 0
@@ -14704,7 +14591,6 @@ Transform:
   - {fileID: 692688734}
   - {fileID: 2138459399}
   - {fileID: 1783537014}
-  - {fileID: 1351513109047976067}
   m_Father: {fileID: 0}
   m_RootOrder: 6
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -19265,8 +19151,3 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2138459398}
   m_Mesh: {fileID: 10209, guid: 0000000000000000e000000000000000, type: 0}
---- !u!4 &1351513109047976067 stripped
-Transform:
-  m_CorrespondingSourceObject: {fileID: 5826595298834687482, guid: 1f1a08a56a9c158499ae89123bb9cd31, type: 3}
-  m_PrefabInstance: {fileID: 488997931}
-  m_PrefabAsset: {fileID: 0}
